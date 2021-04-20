@@ -1,4 +1,5 @@
 # fullstack-angular-spring-mysql
+# git add . && git commit -m "update code" && git push
 frontend
 // generate Component
 ng generate component sales-person-list
