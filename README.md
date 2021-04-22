@@ -1,5 +1,9 @@
 # fullstack-angular-spring-mysql
 # git add . && git commit -m "update code" && git push
+
+#add pagination module
+ng add @angular/localize
+npm i @ng-bootstrap/ng-bootstrap
 frontend
 // generate Component
 ng generate component sales-person-list
